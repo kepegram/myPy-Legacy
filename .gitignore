@@ -1,0 +1,8 @@
+# Node modules and environment files
+backend/node_modules/
+backend/.env
+backend/.env.local
+
+# Other common files to ignore
+.DS_Store
+*.log 
