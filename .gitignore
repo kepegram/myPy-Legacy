@@ -6,3 +6,7 @@ backend/.env.local
 # Other common files to ignore
 .DS_Store
 *.log 
+.env
+
+# Ignore the legacy_data.csv file
+legacy_data.csv
